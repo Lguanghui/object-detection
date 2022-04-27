@@ -1,3 +1,5 @@
-myitti2.m is the main program. Others are the relative functions.
+## Usage
 
-To run the main program, you should put all these .m files in the same folder.
+1. put all these .m files in the same folder
+
+2. run myitti2.m as the main program
